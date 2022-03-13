@@ -1,5 +1,4 @@
 # CurrencyCalculator
-For Mollo Technology
 
 ## SCREENSHOT
 
